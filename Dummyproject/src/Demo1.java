@@ -16,7 +16,7 @@ public class Demo1 {
 		System.out.println(itr.next()) ;
 		 
 	 }
-	 
+	  System.out.println(al);
 	 
 	 
  }
